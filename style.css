@@ -63,3 +63,60 @@ div img{
     background-size: 10%;
 
 }
+.middle2{
+    display: flex;
+}
+.experience{
+    font-size: 45px;
+}
+.baby{
+    font-size: 40px;
+    
+}
+.section2{
+    margin-left: 30px;
+    margin-right: 30px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+
+}
+.smallBaby{
+  color: orange; 
+  font-size: 25px; 
+}
+.first{
+    margin-right: 30px;
+    text-align: justify;
+    
+}
+.second{
+    margin-right: 30px;
+    text-align: justify;
+}
+.halfWidth2{
+    width: 50%;
+    box-shadow: 10px 10px 30px gray;
+}
+#first{
+    border-left: 10px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+#second{
+    border-left: 10px solid;
+    
+    border-image: linear-gradient(blue, rgb(18, 238, 84));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+    
+    
+
+
+
